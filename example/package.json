@@ -1,0 +1,26 @@
+{
+  "name": "imran",
+  "version": "1.0.0",
+  "description": "All_about prottractor FrameWork",
+  "main": "conf.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Imran Abdul",
+  "license": "ISC" ,
+  
+  "devDependencies": {
+    "chance": "^0.7.5",
+    "jasmine-spec-reporter": "^2.4.0",
+    "protractor-flake": "^2.1.2"
+/*	"jasmine-allure-reporter":
+	"protractor-jasmine2-html-reporter":
+	"jasmine-data-provider":*/
+}
+}

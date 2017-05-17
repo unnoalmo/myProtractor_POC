@@ -1,0 +1,38 @@
+{
+  "uid" : "d56f515e861d1f2b",
+  "name" : "should navigate to the AngularJS homepage",
+  "title" : "should navigate to the AngularJS homepage",
+  "time" : {
+    "start" : 1492184337532,
+    "stop" : 1492184340054,
+    "duration" : 2522
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "138f1f24b1bd9c39",
+    "name" : "angularjs homepage",
+    "title" : "angularjs homepage"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "suite-title",
+    "value" : "angularjs homepage"
+  } ],
+  "parameters" : [ ]
+}

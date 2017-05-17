@@ -1,0 +1,38 @@
+{
+  "uid" : "fb2235e6e9e4937c",
+  "name" : "and should behave...",
+  "title" : "and should behave...",
+  "time" : {
+    "start" : 1492184347492,
+    "stop" : 1492184349991,
+    "duration" : 2499
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "437d81338b97d9d2",
+    "name" : "This is the suit desc",
+    "title" : "This is the suit desc"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "This is the suit desc"
+  }, {
+    "name" : "suite-title",
+    "value" : "This is the suit desc"
+  } ],
+  "parameters" : [ ]
+}

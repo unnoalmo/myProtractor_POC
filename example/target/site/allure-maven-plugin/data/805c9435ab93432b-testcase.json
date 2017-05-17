@@ -1,0 +1,38 @@
+{
+  "uid" : "805c9435ab93432b",
+  "name" : "should let you add a new task ",
+  "title" : "should let you add a new task ",
+  "time" : {
+    "start" : 1492185432451,
+    "stop" : 1492185433134,
+    "duration" : 683
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b6d4ae1bceb7c9d8",
+    "name" : "angularjs homepage",
+    "title" : "angularjs homepage"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "suite-title",
+    "value" : "angularjs homepage"
+  } ],
+  "parameters" : [ ]
+}

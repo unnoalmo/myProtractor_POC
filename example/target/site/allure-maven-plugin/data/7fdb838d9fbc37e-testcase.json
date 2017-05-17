@@ -1,0 +1,41 @@
+{
+  "uid" : "7fdb838d9fbc37e",
+  "name" : "should greet the named user",
+  "title" : "should greet the named user",
+  "time" : {
+    "start" : 1492185068711,
+    "stop" : 1492185072960,
+    "duration" : 4249
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : "Expected 'Hello Julie!' to equal 'Hello Juliea!'.",
+    "stackTrace" : "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\luxoft\\Desktop\\imran\\example\\projStr\\TestCases\\example_Spec.js:50:32)\n    at C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:110:25\n    at new ManagedPromise (C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\luxoft\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7"
+  },
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b6d4ae1bceb7c9d8",
+    "name" : "angularjs homepage",
+    "title" : "angularjs homepage"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "suite-title",
+    "value" : "angularjs homepage"
+  } ],
+  "parameters" : [ ]
+}

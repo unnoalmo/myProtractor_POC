@@ -1,0 +1,38 @@
+{
+  "uid" : "8d03bcf76d9dc63f",
+  "name" : "Angular Info abdul imran",
+  "title" : "Angular Info abdul imran",
+  "time" : {
+    "start" : 1492184228602,
+    "stop" : 1492184236764,
+    "duration" : 8162
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b9641f7545e9d580",
+    "name" : "This is the suit desc",
+    "title" : "This is the suit desc"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "This is the suit desc"
+  }, {
+    "name" : "suite-title",
+    "value" : "This is the suit desc"
+  } ],
+  "parameters" : [ ]
+}

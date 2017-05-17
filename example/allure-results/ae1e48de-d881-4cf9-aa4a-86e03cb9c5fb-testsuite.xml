@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1492184239984" stop="1492184244731">
+	<name>angularjs homepage</name>
+	<title>angularjs homepage</title>
+	<test-cases>
+		<test-case start="1492184239984" stop="1492184241808" status="passed">
+			<name>should navigate to the AngularJS homepage</name>
+			<title>should navigate to the AngularJS homepage</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1492184241808" stop="1492184242362" status="passed">
+			<name>should let you add a new task </name>
+			<title>should let you add a new task </title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1492184242362" stop="1492184244731" status="passed">
+			<name>should behave be done via function</name>
+			<title>should behave be done via function</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

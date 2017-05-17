@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1492182262639" stop="1492182274141">
+	<name>This is the suit desc</name>
+	<title>This is the suit desc</title>
+	<test-cases>
+		<test-case start="1492182262639" stop="1492182270243" status="passed">
+			<name>Angular Info abdul imran</name>
+			<title>Angular Info abdul imran</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1492182270243" stop="1492182274141" status="passed">
+			<name>Angular Info Imran Abdul</name>
+			<title>Angular Info Imran Abdul</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

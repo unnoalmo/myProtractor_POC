@@ -1,0 +1,38 @@
+{
+  "uid" : "6d2b5d82bba8f11d",
+  "name" : "should behave be done via function",
+  "title" : "should behave be done via function",
+  "time" : {
+    "start" : 1492185382659,
+    "stop" : 1492185385403,
+    "duration" : 2744
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b6d4ae1bceb7c9d8",
+    "name" : "angularjs homepage",
+    "title" : "angularjs homepage"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "suite-title",
+    "value" : "angularjs homepage"
+  } ],
+  "parameters" : [ ]
+}
